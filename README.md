@@ -10,8 +10,13 @@ Demo diponible sur https://tan.gameandme.fr/
 
 ## Installation
 
-php artisan key:generate
-composer install
+- php artisan key:generate
+- composer install
+
+## Stack
+
+- PHP 8.2 
+- Laravel 10
 
 ## Contact
 ynizon@free.fr
