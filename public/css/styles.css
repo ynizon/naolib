@@ -1,0 +1,30 @@
+ul {padding:10px;list-style: disc;margin-bottom:0;}
+h2{font-size:1.2em;}
+.alert{text-align:center;}
+.fa-bell{color: #f85700;}
+.pointer{cursor:pointer;}
+.icon_bus{width:35px;padding-bottom:5px;display:inline;}
+.detail_date{margin-bottom: 5px;}
+.icon-warning{width:35px;display:none;max-height:27px;}
+.icon_typeligne{width:25px;display:inline;}
+.nopad{padding: 0; list-style: none;}
+.bus1{border:1px solid #cccccc;margin-bottom:2px;padding:10px;padding-top:5px;padding-bottom:5px;}
+.timing{padding-left:10px;}
+.warning-info{background:url('/images/Infotrafic/Info-trafic.jpg') no-repeat;}
+#alarms{list-style: none;}
+.footer{position:fixed;bottom:0;width:100%;margin-top:20px;}
+.yellow{color: #ffc125;}
+.accordion-body {
+    padding: 0.2rem;
+}
+.detail_bus{cursor:pointer;}
+.timing-clock{width:30px;display:inline-block;}
+.tc{text-align: center;}
+.icon_footer{cursor:pointer;color: #656565;}
+.icon_footer.active{color:#ff253a;}
+.page-info svg{display:inline;}
+.page-info h2{display:inline;padding-top:10px;}
+.page-info p{margin-top:1rem;}
+table tr.active{border:2px solid #ff253a !important;}
+table tr td{text-align: center;}
+.detailh2{padding-left:10px;display: inline;}
